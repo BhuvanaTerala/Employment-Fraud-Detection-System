@@ -9,6 +9,9 @@ website, which was originally taken from The University of the Aegean | Laborato
 Information & Communication Systems Security, and has pretty good information through which 
 we can build a classifier or predict results.
 ## Data Description
+dataset:
+[Link to Dataset](https://www.kaggle.com/datasets/josereimondez/fake-jobs-posting-detection?select=fake_job_postings.csv)
+
 The dataset consists of 18k jobs and their description, out of which only 800 are fake jobs. 
 The data includes meta-data about the occupations in addition to textual information. Using the 
 dataset, classification algorithms that can identify fake job descriptions can be developed.
